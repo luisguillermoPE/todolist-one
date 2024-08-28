@@ -1,0 +1,17 @@
+body{
+    background-color: #8aced0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.todo-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+ul > li{
+    list-style-type: none;
+}
